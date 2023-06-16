@@ -20,5 +20,5 @@ The DMX sound library is also needed. [APODMX](https://bitbucket.org/gamesrc-ver
 Read ``notes_restoration.md`` for an explanation on how to compile. (does not explain installing the compiler and assembler)  
 
 ## Licenses
-The Doom engine is under the GPL v2 license.  (see ``gpl-2.0.txt`` or LICENSE.md``)
+The Doom engine is under the GPL v2 license.  (see ``gpl-2.0.txt`` or ``LICENSE.md``)
 Freedoom is under its own license. (see ``COPYING.adoc``)
