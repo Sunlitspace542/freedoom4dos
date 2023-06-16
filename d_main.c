@@ -1080,7 +1080,7 @@ void D_DoomMain (void)
 	{
 		// the parms after p are wadfile/lump names,
 		// until end of parms or another - preceded parm
-		modifiedgame = false;            // homebrew levels //disable, this is freedoom, not doom 1 or 2
+		modifiedgame = true;            // homebrew levels //i had previously set thit to false, but i think that may break something
 		while (++p != myargc && myargv[p][0] != '-')
 			D_AddFile (myargv[p]);
 	}
@@ -1212,7 +1212,7 @@ void D_DoomMain (void)
 	// Iff additonal PWAD files are used, print modified banner
 	if (modifiedgame)
 	{
-		/*m*/printf(
+		/*m*//*printf(
 			"===========================================================================\n"
 			"ATTENTION:  This version of DOOM has been modified.  If you would like to\n"
 			"get a copy of the original game, call 1-800-IDGAMES or see the readme file.\n"
@@ -1220,7 +1220,7 @@ void D_DoomMain (void)
 			"                      press enter to continue\n"
 			"===========================================================================\n"
 			);
-		getchar ();
+		getchar ();*/
 	}
 #endif
 	
