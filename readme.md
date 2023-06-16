@@ -5,7 +5,8 @@ This source code should only be used to build DOOM 2 v1.9 and Ultimate DOOM v1.9
 All strings from FREEDOOM are implemented, though one of the quit screen messages had to be shortened, as the full message would not display.
 
 ## Usage
-due to the MS-DOS 8-character filename limit, the ``FREEDOOM1.wad`` and ``FREEDOOM2.wad`` files must be renamed to ``doom.wad`` and ``doom2.wad`` respectively for the game to run.
+due to the MS-DOS 8-character filename limit, the ``FREEDOOM1.wad`` and ``FREEDOOM2.wad`` files must be renamed to ``doom.wad`` and ``doom2.wad`` respectively for the game to run.  
+the executables should run fine under DOSBox.
 
 ## Compiling
 TODO (i am not good at explanations)
