@@ -9,7 +9,7 @@ This source code should only be used to build Doom 2 v1.9 and Ultimate Doom v1.9
 - "Sky Never Changes in Doom II" bugfix enabled for all Doom 2 engine versions
 
 ## Known issues
-- Game may crash on exit from MAP11 onwards (at least on DOSBox)
+- Freedoom: Phase 2 may crash on exit from MAP11 onwards (at least on DOSBox)
  
 ## Usage
 due to the MS-DOS 8-character filename limit, the ``FREEDOOM1.wad`` and ``FREEDOOM2.wad`` files must be renamed to ``doom.wad`` and ``doom2.wad`` respectively for the game to run.  
