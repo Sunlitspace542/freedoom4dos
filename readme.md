@@ -9,8 +9,8 @@ due to the MS-DOS 8-character filename limit, the ``FREEDOOM1.wad`` and ``FREEDO
 
 # Compiling
 TODO (i am not good at explanations)
-notes in the meantime:  
+Notes in the meantime:  
 A successful compilation should output ``NEWDOOM.EXE`` (includes DOS extender) and ``STRPDOOM.EXE`` (does not include DOS extender).  
 Watcom C/C++ 9.5b and Borland Turbo Assembler (``TASM.EXE``) 3.1 are requirements.  
-the DMX sound library is also needed [APODMX](https://bitbucket.org/gamesrc-ver-recreation/apodmx/src/master/) is an option if you do not want to use or cannot obtain the DMX libraries. 
-read ``notes_restoration.md`` for an explanation on how to compile. (does not explain installing the compiler and assembler)  
+The DMX sound library is also needed. [APODMX](https://bitbucket.org/gamesrc-ver-recreation/apodmx/src/master/) is an option if you do not want to use or cannot obtain the DMX libraries. 
+Read ``notes_restoration.md`` for an explanation on how to compile. (does not explain installing the compiler and assembler)  
