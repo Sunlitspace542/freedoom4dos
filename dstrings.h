@@ -50,7 +50,7 @@
 
 #define NIGHTMARE	\
 "The game is not designed to be\n"\
-"beatable at this skill level.\n"\
+"beatable at this skill level.\n\n"\
 "Not recommended unless you're\n"\
 "really that good - or bored.\n"\
 "(Press Y to confirm)\n\n"PRESSYN
