@@ -14,6 +14,3 @@ A successful compilation should output ``NEWDOOM.EXE`` (includes DOS extender) a
 Watcom C/C++ 9.5b and Borland Turbo Assembler (``TASM.EXE``) 3.1 are requirements.  
 The DMX sound library is also needed. [APODMX](https://bitbucket.org/gamesrc-ver-recreation/apodmx/src/master/) is an option if you do not want to use or cannot obtain the DMX libraries. 
 Read ``notes_restoration.md`` for an explanation on how to compile. (does not explain installing the compiler and assembler)  
-
-## License
-As this is a modification of the open source release of the DOOM source code, this source code is under the GNU GPL.
