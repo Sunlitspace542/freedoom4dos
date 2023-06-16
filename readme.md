@@ -1,6 +1,6 @@
 # Freedoom4DOS
 Made using the DOS Doom source code reconstruction from the [gamesrc-ver-recreation](https://bitbucket.org/gamesrc-ver-recreation/doom/src/master/) repo.  
-This source code and the executables it generates are intended to be used with the [latest autobuild of FREEDOOM.](http://freedoom.soulsphere.org/)  
+This source code and the executables it generates are intended to be used with the [latest autobuild of Freedoom.](http://freedoom.soulsphere.org/)  
 This source code should only be used to build Doom 2 v1.9 and Ultimate Doom v1.9 executables. the setup program is not included, however the Doom 2/Ultimate Doom setup program should work fine with this.  
 
 ## Differences from vanilla Doom Engine
