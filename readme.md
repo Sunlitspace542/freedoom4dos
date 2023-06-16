@@ -9,7 +9,7 @@ due to the MS-DOS 8-character filename limit, the ``FREEDOOM1.wad`` and ``FREEDO
 the executables should run fine under DOSBox.
 
 ## Compiling
-TODO (i am not good at explanations)
+TODO (i am not good at explanations)  
 Notes in the meantime:  
 A successful compilation should output ``NEWDOOM.EXE`` (includes DOS extender) and ``STRPDOOM.EXE`` (does not include DOS extender).  
 Watcom C/C++ 9.5b and Borland Turbo Assembler (``TASM.EXE``) 3.1 are requirements.  
