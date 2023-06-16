@@ -1,5 +1,5 @@
 ## FREEDOOM DOS Executable
-made using the DOS Doom source code reconstruction from the [gamesrc-ver-recreation](https://bitbucket.org/gamesrc-ver-recreation/doom/src/master/) repo.  
+Made using the DOS Doom source code reconstruction from the [gamesrc-ver-recreation](https://bitbucket.org/gamesrc-ver-recreation/doom/src/master/) repo.  
 This source code and the executables it generates are intended to be used with the [latest autobuild of FREEDOOM.](http://freedoom.soulsphere.org/)  
 This source code should only be used to build DOOM 2 v1.9 and Ultimate DOOM v1.9 executables. the setup program is not included, however the DOOM 2/Ultimate DOOM setup program should work fine with this.  
 All strings from FREEDOOM are implemented, though one of the quit screen messages had to be shortened, as the full message would not display.
