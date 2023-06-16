@@ -113,14 +113,14 @@ char endmsg2[8][89] =
 	"please don't leave, we\nneed your help!",
 	"please don't leave, we\nneed your help!"
 #else
-	"What do you do with your life?",//
-	"Don't press Y!\nThere's an army of\nzombies on your desktop!", //
-	"Your revenge is unsatisfied.\nAre you sure you want to quit?", //
-	//"Press Y to let AGM decimate\nEarth with their monstrosities.", // does not display correctly, why?
-	"Press Y to let AGM decimate Earth.", // not accurate, but should work
-	"Don't quit!\nMonsters will kill\nyou while you sleep.", //
-	"Do you think you can\nwalk away just like that?", //
-	"Not even going to\nstay for Deathmatch?" // crashes with "bad v_drawpatchdirect" error (drawing offscreen, maybe?)
+	"What do you do with your life?",
+	"Don't press Y!\nThere's an army of\nzombies on your desktop!",
+	"Your revenge is unsatisfied.\nAre you sure you want to quit?",
+	//"Press Y to let AGM decimate\nEarth with their monstrosities.", // BUG: does not display correctly (second line cut off)
+	"Press Y to let AGM decimate Earth.", // shortened version of above line
+	"Don't quit!\nMonsters will kill\nyou while you sleep.",
+	"Do you think you can\nwalk away just like that?",
+	"Not even going to\nstay for Deathmatch?"
 #endif
 };
 
