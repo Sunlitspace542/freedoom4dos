@@ -1229,7 +1229,7 @@ void D_DoomMain (void)
 	if (registered)
 	{
 		mprintf("\tregistered version.\n");
-#if !APPVER_CHEX // again, this is not doom, this is freedoom, we don't need all this // nvm breaks loading bar if removed
+#if !APPVER_CHEX // insetad of piracy dislcaimer, mention modified codebase
 		mprintf (
 			"===========================================================================\n"
 			" This Modified version of the DOOM engine is based on the reconstructed DOS\n"
