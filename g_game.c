@@ -393,7 +393,7 @@ void G_DoLoadLevel (void)
 {
 	int             i;
 
-#if (APPVER_DOOMREV >= AV_DR_DM19F2) // "Sky never changes in Doom II" bug fix
+//#if (APPVER_DOOMREV >= AV_DR_DM19F2) // "Sky never changes in Doom II" bug fix // now enabled for all DOOM II engine builds
 	if (commercial)
 	{
 		skytexture = R_TextureNumForName ("SKY3");
@@ -403,7 +403,7 @@ void G_DoLoadLevel (void)
 			if (gamemap < 21)
 				skytexture = R_TextureNumForName ("SKY2");
 	}
-#endif
+//#endif
 
 	levelstarttic = gametic;        // for time calculation
 	

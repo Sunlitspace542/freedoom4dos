@@ -1,0 +1,4 @@
+## Freedoom4DOS Gitignore
+
+## Compiler .ERR files
+*.ERR
