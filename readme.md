@@ -7,13 +7,14 @@ This source code should only be used to build Doom 2 v1.9 and Ultimate Doom v1.9
 - Raised limits to match those in Doom-Plus
 - Added text strings from Freedoom's DEHACKED lump (one of the quit messages had to be shortened, however)
 - "Sky Never Changes in Doom II" bugfix enabled for all Doom 2 engine versions
+- IDSPISPOPD and IDCLIP work regardless of IWAD  
 
 ## Known issues
-- Game may crash on exit from MAP11 onwards (at least on DOSBox)
+- Issues with MAP11 and MAP12, brief sound glitch when saving on these levels, and the game will crash on exit. after MAP12 this the save sound glitch goes away, but the game must be restarted for the exit crash to not occur. (possible cause: savegame logic)  
  
 ## Usage
 due to the MS-DOS 8-character filename limit, the ``FREEDOOM1.wad`` and ``FREEDOOM2.wad`` files must be renamed to ``doom.wad`` and ``doom2.wad`` respectively for the game to run.  
-the executables should run fine under DOSBox.
+the executables should run fine under DOSBox.  
 
 ## Compiling
 TODO (i am not good at explanations)  
