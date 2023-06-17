@@ -10,7 +10,7 @@ This source code should only be used to build Doom 2 v1.9 and Ultimate Doom v1.9
 - IDSPISPOPD and IDCLIP work regardless of IWAD  
 
 ## Known issues
-- Issues with MAP11 and MAP12, brief sound glitch when saving on these levels, and the game will crash on exit. after MAP12 the save sound glitch goes away, but the game must be restarted for the exit crash to not occur. (possible cause: savegame logic)  
+- Issues with MAP11, MAP12, MAP28, brief sound glitch when saving on these levels, and the game will crash on exit. after these maps the save sound glitch goes away, but the game must be restarted for the exit crash to not occur. (possible cause: savegame logic)  
  
 ## Usage
 due to the MS-DOS 8-character filename limit, the ``FREEDOOM1.wad`` and ``FREEDOOM2.wad`` files must be renamed to ``doom.wad`` and ``doom2.wad`` respectively for the game to run.  
