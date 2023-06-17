@@ -3,14 +3,14 @@ Made using the DOS Doom source code reconstruction from the [gamesrc-ver-recreat
 This source code and the executables it generates are intended to be used with the [latest autobuild of Freedoom.](http://freedoom.soulsphere.org/)  
 This source code should only be used to build Doom 2 v1.9 and Ultimate Doom v1.9 executables. the setup program is not included, however the Doom 2/Ultimate Doom setup program should work fine with this.  
 
-## Differences from vanilla Doom Engine
+## Differences from vanilla Doom engine
 - Raised limits to match those in Doom-Plus
 - Added text strings from Freedoom's DEHACKED lump (one of the quit messages had to be shortened, however)
 - "Sky Never Changes in Doom II" bugfix enabled for all Doom 2 engine versions
 - IDSPISPOPD and IDCLIP work regardless of IWAD  
 
 ## Known issues
-- Issues with MAP11 and MAP12, brief sound glitch when saving on these levels, and the game will crash on exit. after MAP12 this the save sound glitch goes away, but the game must be restarted for the exit crash to not occur. (possible cause: savegame logic)  
+- Issues with MAP11 and MAP12, brief sound glitch when saving on these levels, and the game will crash on exit. after MAP12 the save sound glitch goes away, but the game must be restarted for the exit crash to not occur. (possible cause: savegame logic)  
  
 ## Usage
 due to the MS-DOS 8-character filename limit, the ``FREEDOOM1.wad`` and ``FREEDOOM2.wad`` files must be renamed to ``doom.wad`` and ``doom2.wad`` respectively for the game to run.  
